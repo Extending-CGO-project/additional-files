@@ -19,10 +19,10 @@ The prototype can be used by simply downloading the 'prototype' folder and runni
 
 ## Authors
 
-- [Tim EICHHORN] - 
+- [Tim EICHHORN] - [*@jensreil2001*](https://github.com/jensreil2001) 
 - [Ghusen Chalan] - [*@cosina14*](https://github.com/Cosina14)
-- [Simon VAN ROOZENDAAL] - [*@Simonvnroozendaal*](https://github.com/SimonvRoozendaal)
-- [Jens REIL] -
+- [Simon VAN ROOZENDAAL] - [*@Simonvroozendaal*](https://github.com/SimonvRoozendaal)
+- [Jens REIL] -[*@T-S-Eichhorn*](https://github.com/T-S-Eichhorn)
 - [Jo ̃ao REBELO MOREIRA]
 - [Tiago Prince Sales](https://www.researchgate.net/profile/Tiago_Prince_Sales) - [*@tgoprince*](https://github.com/tgoprince)
 
