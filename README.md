@@ -9,6 +9,7 @@ This repository is structured as follow:
 
 
 Usage of the Prototype:
+
 The prototype is desigend to simulate the functionality of the extended ontology using a Python script. The prototype uses the RDF library to take a set of raw data from the autonomous systems, and apply the new ontology mappings. The raw data is provided as .csv file and outputted as .ttl file, simulating the data-stream from robots to operating system through Callable webserver.
 
 
