@@ -3,10 +3,15 @@
 This repository is structured as follow:
 
 - `./owl`: folder containing the definition files of XXXXX.
-- `./examples`: folder containing examples of the application of XXXXXX.
+- `./prototype`: folder containing files to simulate the implementation of the extended CGO
 - `./OntoUML`: folder containing OntoUML diagrams describing the domain behind XXXXXXXXXX.
 
-Extending the Common Greenhouse Ontology with Incident Reporting from Autonomous Systems
+
+
+Usage of the Prototype:
+The prototype is desigend to simulate the functionality of the extended ontology using a Python script. The prototype uses the RDF library to take a set of raw data from the autonomous systems, and apply the new ontology mappings. The raw data is provided as .csv file and outputted as .ttl file, simulating the data-stream from robots to operating system through Callable webserver.
+
+
 
 
 ## Authors
