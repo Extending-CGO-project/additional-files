@@ -2,9 +2,9 @@
 
 This repository is structured as follow:
 
-- `./owl`: folder containing the definition files of XXXXX.
+- `./owl`: folder containing the definition files of the ontology.
 - `./prototype`: folder containing files to simulate the implementation of the extended CGO
-- `./OntoUML`: folder containing OntoUML diagrams describing the domain behind XXXXXXXXXX.
+- `./OntoUML`: folder containing OntoUML diagrams describing the domain behind the ontology and its test environment.
 
 
 
