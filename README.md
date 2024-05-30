@@ -12,6 +12,8 @@ Usage of the Prototype:
 
 The prototype is desigend to simulate the functionality of the extended ontology using a Python script. The prototype uses the RDF library to take a set of raw data from the autonomous systems, and apply the new ontology mappings. The raw data is provided as .csv file and outputted as .ttl file, simulating the data-stream from robots to operating system through Callable webserver.
 
+The prototype can be used by simply downloading the 'prototype' folder and running the included python script (Ontology Converter Prototype). This will apply the ontology mappings on the data provided in the test_sheet.csv, creating a .ttl file with the resulting data.
+
 
 
 
